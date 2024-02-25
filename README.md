@@ -1,4 +1,7 @@
-<h1>Hello</h1>
+<img align="left" width="300" hspace="16" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspenbranch&langs_count=10" alt="Top Langs">
 
-<h6>I'm Aspen</h6><br>
-There's nothing else I could possibly say, check out my website at aspenbranch.github.io
+<h1>Hi There, I'm Aspenbranch</h1>
+<p>Welcome to my Github profile! Here you will find some cool projects and games.</p>
+
+<h2>About Me</h2>
+<p>I'm a young game and front-end developer.</p>
