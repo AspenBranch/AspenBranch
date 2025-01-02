@@ -1,5 +1,4 @@
-<img align="left" width="300" hspace="16" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspenbranch&langs_count=10" alt="Top Langs">
-
+<img align="left" width="300" hspace="16" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="Top Langs">
 <h1>Hi There, I'm Aspenbranch</h1>
 <p>Welcome to my Github profile! Here you will find some cool projects and games.</p>
 
